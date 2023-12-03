@@ -9,7 +9,7 @@
   <p align='left'>
   🌱 Currently working on **NextJs**
 
-🌱 Expertise on ReactJs
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> Expertise on ReactJs
 
 👨‍💻 Visit my projects at [https://nrshakib.github.io/my-portfolio/](https://nrshakib.github.io/my-portfolio/)
 
