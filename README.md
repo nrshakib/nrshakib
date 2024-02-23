@@ -7,7 +7,7 @@
 
 <p>
   <p align='left'>
-  🌱 Currently working on **NextJs**
+  🌱 Currently working on <sub>NextJs</sub> & <sup>Python</sup>
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> Expertise on ReactJs
 
