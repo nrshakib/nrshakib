@@ -11,7 +11,7 @@
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> Expertise on ReactJs
 
-👨‍💻 Visit my projects at [my portfolio]([https://nrshakib.github.io/my-portfolio/](https://portfolio-md-nadim-rijvi-shakib.vercel.app/))
+👨‍💻 Visit my projects at [my portfolio]([https://nrshakib.github.io/my-portfolio/](https://portfolio-md-nadim-rijvi-shakib.vercel.app/])
 
 📫 Reach me at **nadimrijvi.shakib@gmail.com**
 </p>
