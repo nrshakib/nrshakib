@@ -214,7 +214,7 @@
 
 <p align="left">
 
-<a href="https://redux-toolkit.js.org/" target="_blank">
+<!-- <a href="https://redux-toolkit.js.org/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
     alt="Redux Toolkit"
@@ -222,7 +222,7 @@
     height="45"
   />
 </a>
-&nbsp;
+&nbsp; -->
 
 <a href="https://redux-toolkit.js.org/rtk-query/overview" target="_blank">
   <img
@@ -245,11 +245,10 @@
 
 </p>
 
-### 🖥️ Backend Development
 
-<p align="left">
+<!-- <p align="left"> -->
 
-<a href="https://nodejs.org/" target="_blank">
+<!-- <a href="https://nodejs.org/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
     alt="Node.js"
@@ -257,9 +256,9 @@
     height="45"
   />
 </a>
-&nbsp;
+&nbsp; -->
 
-<a href="https://expressjs.com/" target="_blank">
+<!-- <a href="https://expressjs.com/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
     alt="Express.js"
@@ -267,9 +266,9 @@
     height="45"
   />
 </a>
-&nbsp;
+&nbsp; -->
 
-<a href="https://www.mongodb.com/" target="_blank">
+<!-- <a href="https://www.mongodb.com/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
     alt="MongoDB"
@@ -278,32 +277,8 @@
   />
 </a>
 
-</p>
+</p> -->
 
-### 🔐 Authentication & Backend Services
-
-<p align="left">
-
-<a href="https://firebase.google.com/" target="_blank">
-  <img
-    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-    alt="Firebase"
-    width="45"
-    height="45"
-  />
-</a>
-&nbsp;
-
-<a href="https://supabase.com/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"
-    alt="Supabase"
-    width="45"
-    height="45"
-  />
-</a>
-
-</p>
 
 ### 🧰 Tools
 
