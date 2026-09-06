@@ -1,91 +1,362 @@
-<h1 align="center">As Salamu Alaikum, I'm MD Nadim Rijvi Shakib</h1>
-<h3 align="center">A passionate Web Developer</h3>
-<p align='center'>
-  <img src='https://img.freepik.com/free-vector/creative-abstract-quantum-illustration_23-2149236239.jpg?w=740&t=st=1700999407~exp=1701000007~hmac=7b05c6c6b37407705f28c15b150646fabe52ca11759d3c62751996dbbbbf1fd7' height='300' width='400' />
+<h1 align="center">As-Salamu Alaikum, I'm MD Nadim Rijvi Shakib</h1>
+
+<h3 align="center">
+  Frontend Developer | React.js & Next.js
+</h3>
+
+<p align="center">
+  <img
+    src="https://img.freepik.com/free-vector/creative-abstract-quantum-illustration_23-2149236239.jpg"
+    height="300"
+    width="400"
+  />
 </p>
 
-
-<p>
-  <p align='left'>
-  🌱 Currently working on <sub>NextJs</sub> & <sup>Python</sup>
-
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> Expertise on ReactJs
-
-👨‍💻 Visit my projects at [my portfolio](https://portfolio-md-nadim-rijvi-shakib.vercel.app/)
-
-📫 Reach me at **nadimrijvi.shakib@gmail.com**
+<p align="center">
+  <a href="https://portfolio-md-nadim-rijvi-shakib.vercel.app/">
+    <strong>🌐 Visit My Portfolio</strong>
+  </a>
 </p>
 
-<p align='right'>
-  <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/nrshakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdnadimrijvishakib" height="30" width="40" /></a>
-  <a href="https://fb.com/nadimrijvi.shakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadimrijvi.shakib" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22574341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22574341" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nrshakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nrshakib" height="30" width="40" /></a>
-</p>
+---
+
+### 👨‍💻 About Me
+
+- 💻 Frontend Developer specializing in **React.js and Next.js**
+- 🌱 Currently learning and working with **Next.js & Python**
+- ⚛️ Experienced in building modern, responsive and reusable React interfaces
+- 🎨 Interested in clean UI/UX, scalable frontend architecture and performance
+- 🤖 Exploring **Python and Django**
+- 📫 Reach me at **nadimrijvi.shakib@gmail.com**
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/nrshakib" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <a href="https://fb.com/nadimrijvi.shakib" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Facebook"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <a href="https://stackoverflow.com/users/22574341" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+      alt="Stack Overflow"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <a href="https://www.leetcode.com/nrshakib" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+      alt="LeetCode"
+      height="30"
+      width="40"
+    />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <h4>Front End Development : </h4>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> &nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a> &nbsp;
-  <a href="https://mui.com/material-ui/getting-started/" target="_blank" rel="noreferrer"> 
-  <img src="https://mui.com/static/logo.png" alt="materialUI" width="40" height="40"/>
+---
+
+## 🛠️ Languages & Technologies
+
+### 💻 Programming Languages
+
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="JavaScript"
+    width="45"
+    height="45"
+  />
 </a>
-<br/>
-  <h4>Styling : </h4>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>&nbsp;
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> &nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-<br/>
-  <h4>Server Side Development : </h4>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  &nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp" alt="express" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <h4>API Testing : </h4>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <h4>Authentication : </h4>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <h4>Server Side Rendering (SSR) : </h4>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*LvA59wJi3O9jTMQQsw_cRA.png" alt="nextjs" width="40" height="40"/>
-  </a> 
-  <p>
-    <h4>Other Tools : </h4>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  </p>
+&nbsp;
 
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nrshakib&show_icons=true&locale=en&layout=compact" alt="nrshakib" height='300' width='350'/></p> -->
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="TypeScript"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://www.python.org/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="Python"
+    width="45"
+    height="45"
+  />
+</a>
+
+</p>
+
+### ⚛️ Frontend Development
+
+<p align="left">
+
+<a href="https://react.dev/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    alt="React"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://nextjs.org/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+    alt="Next.js"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    alt="HTML5"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://reactrouter.com/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg"
+    alt="React Router"
+    width="45"
+    height="45"
+  />
+</a>
+
+</p>
+
+### 🎨 Styling & UI
+
+<p align="left">
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <img
+    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+    alt="Tailwind CSS"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://mui.com/" target="_blank">
+  <img
+    src="https://mui.com/static/logo.png"
+    alt="Material UI"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://ant.design/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg"
+    alt="Ant Design"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://getbootstrap.com/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    alt="Bootstrap"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    alt="CSS3"
+    width="45"
+    height="45"
+  />
+</a>
+
+</p>
+
+### 🔄 State Management & API
+
+<p align="left">
+
+<a href="https://redux-toolkit.js.org/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+    alt="Redux Toolkit"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://redux-toolkit.js.org/rtk-query/overview" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
+    alt="RTK Query"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://postman.com/" target="_blank">
+  <img
+    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+    alt="Postman"
+    width="45"
+    height="45"
+  />
+</a>
+
+</p>
+
+### 🖥️ Backend Development
+
+<p align="left">
+
+<a href="https://nodejs.org/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    alt="Node.js"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://expressjs.com/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+    alt="Express.js"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+    alt="MongoDB"
+    width="45"
+    height="45"
+  />
+</a>
+
+</p>
+
+### 🔐 Authentication & Backend Services
+
+<p align="left">
+
+<a href="https://firebase.google.com/" target="_blank">
+  <img
+    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+    alt="Firebase"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://supabase.com/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"
+    alt="Supabase"
+    width="45"
+    height="45"
+  />
+</a>
+
+</p>
+
+### 🧰 Tools
+
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank">
+  <img
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    alt="Git"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://github.com/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+    alt="GitHub"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img
+    src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"
+    alt="VS Code"
+    width="45"
+    height="45"
+  />
+</a>
+&nbsp;
+
+<a href="https://www.figma.com/" target="_blank">
+  <img
+    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+    alt="Figma"
+    width="45"
+    height="45"
+  />
+</a>
+
+</p>
+
+---
+
+<h3 align="left">📊 Languages</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrshakib&layout=donut&langs_count=8&theme=dark&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
