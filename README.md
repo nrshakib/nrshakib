@@ -1,5 +1,5 @@
 <h1 align="center">As Salamu Alaikum, I'm MD Nadim Rijvi Shakib</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer</h3>
 <p align='center'>
   <img src='https://img.freepik.com/free-vector/creative-abstract-quantum-illustration_23-2149236239.jpg?w=740&t=st=1700999407~exp=1701000007~hmac=7b05c6c6b37407705f28c15b150646fabe52ca11759d3c62751996dbbbbf1fd7' height='300' width='400' />
 </p>
@@ -11,9 +11,9 @@
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> Expertise on ReactJs
 
-👨‍💻 Visit my projects at [https://nrshakib.github.io/my-portfolio/](https://nrshakib.github.io/my-portfolio/)
+👨‍💻 Visit my projects at [my portfolio]([https://nrshakib.github.io/my-portfolio/](https://portfolio-md-nadim-rijvi-shakib.vercel.app/))
 
-📫 Reach me at **nrshakib007@gmail.com**
+📫 Reach me at **nadimrijvi.shakib@gmail.com**
 </p>
 
 <p align='right'>
@@ -88,4 +88,4 @@
   </a>
   </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nrshakib&show_icons=true&locale=en&layout=compact" alt="nrshakib" height='300' width='350'/></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nrshakib&show_icons=true&locale=en&layout=compact" alt="nrshakib" height='300' width='350'/></p> -->
