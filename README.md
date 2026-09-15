@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me
 
 - 💻 Frontend Developer specializing in **React.js and Next.js**
-- 🌱 Currently learning and working with **Next.js & Python**
+- 🌱 Currently learning and working with **Python & Django**
 - ⚛️ Experienced in building modern, responsive and reusable React interfaces
 - 🎨 Interested in clean UI/UX, scalable frontend architecture and performance
 - 🤖 Exploring **Python and Django**
