@@ -329,7 +329,7 @@
 
 <h3 align="left">📊 Languages</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrshakib&layout=compact&theme=dracula&hide=html,css&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrshakib&layout=compact&theme=dracula&hide=html,css&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 <!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrshakib&layout=donut&langs_count=8&theme=dark&hide_border=true"
